@@ -12,7 +12,7 @@ h1, h2, h3, h4, h5, p{color: #000; padding-bottom: 30px;}
 
 .intro-text{text-transform: uppercase;font-size: 20px;font-weight: bold;}
 
-.button{padding: 18px 28px;background: #316bff;color: #fff;display: inline-block;border-radius: 40px;}
+.button{padding: 18px 28px;background-image: linear-gradient(to bottom right, blue, aqua);display: inline-block;border-radius: 40px;}
 
 
 
